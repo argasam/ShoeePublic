@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>946085838470-4mcdf1r1qjo04tt0ckcj07n15jet6luk.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.946085838470-4mcdf1r1qjo04tt0ckcj07n15jet6luk</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDZbb9Dn0aRosxEcRKHMwgEgG0jLjKTqhQ</string>
+	<key>GCM_SENDER_ID</key>
+	<string>946085838470</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.shoee</string>
+	<key>PROJECT_ID</key>
+	<string>shoee-3c816</string>
+	<key>STORAGE_BUCKET</key>
+	<string>shoee-3c816.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:946085838470:ios:ab10e1b2cc2e144f8f5b07</string>
+</dict>
+</plist>

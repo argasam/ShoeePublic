@@ -1,0 +1,13 @@
+const String root = 'root';
+const String home = 'home';
+const String cart = 'cart';
+const String custom = 'custom';
+const String acc = 'acc';
+const String details = 'details';
+const String login = 'login';
+const String signup = 'signup';
+const String splash = 'splash';
+const String customdo = 'customdo';
+const String choosevendor = 'choosevendor';
+const String customhistory = 'customhistory';
+const String buypage = 'buypage';
